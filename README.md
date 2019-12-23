@@ -35,4 +35,4 @@ Here is a short list of example questions for candidates for a PHP developer pos
 8. Explain the **Dependency inversion principle (DIP)**.
 9. What **TDD** stands for? Name some benefits of using it.
 
-v0.0.1
+v0.0.2
