@@ -1,4 +1,6 @@
-Here is a short list of example questions for candidates for a PHP developer position. It's a handy cheat sheet for me when I lead the job interview. The list is divided into few parts covering issues from different scopes. If you have any good questions which aren't present on the list, feel free to contribute!
+Here is a short list of example questions for candidates for a PHP developer position. It's a handy cheat sheet for me when I lead the job interview. The list is divided into few parts covering issues from different scopes. Workflow questions are not straightly connected with programming, but I like to have the whole picture of the working culture of a candidate.
+
+If you have any good questions which aren't present on the list, feel free to contribute!
 
 # PHP questions
 
@@ -35,4 +37,11 @@ Here is a short list of example questions for candidates for a PHP developer pos
 8. Explain the **Dependency inversion principle (DIP)**.
 9. What **TDD** stands for? Name some benefits of using it.
 
-v0.0.2
+# Workflow questions
+
+1. Do you have experiences with **Event Storming**?
+2. Have you ever worked in **SCRUM**?
+3. What elements of **SCRUM** were implemented in your company?
+4. Are you familiar with **SCRUM** events?
+
+v0.0.3
