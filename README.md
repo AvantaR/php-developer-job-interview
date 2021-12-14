@@ -15,7 +15,7 @@ If you have any good questions which aren't present on the list, feel free to co
 9. What is **composer** and what for can we use it?
 10. How many **visibility modifiers** do we have in PHP? Name them and explain the differences.
 11. Explain the difference between ```==``` (equality) and ```===``` (identity) operator?
-12. Describe the ```__constructor()``` and ```__destructor()``` methods.
+12. Describe the ```__construct()``` and ```__destruct()``` methods.
 13. What are **Magic Methods**? Give three examples, and describe them.
 
 # Design patterns
