@@ -14,9 +14,10 @@ If you have any good questions which aren't present on the list, feel free to co
 8. Does PHP provide arrow function support?
 9. What is **composer** and what for can we use it?
 10. How many **visibility modifiers** do we have in PHP? Name them and explain the differences.
-11. Explain the difference between ```==``` (equality) and ```===``` (identity) operator?
-12. Describe the ```__construct()``` and ```__destruct()``` methods.
+11. Explain the difference between `==``` (equality) and `===` (identity) operator?
+12. Describe the `__construct()` and `__destruct()` methods.
 13. What are **Magic Methods**? Give three examples, and describe them.
+14. What is the difference between `composer install` and `composer update`
 
 # Design patterns
 
