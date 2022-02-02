@@ -19,6 +19,9 @@ If you have any good questions which aren't present on the list, feel free to co
 13. What are **Magic Methods**? Give three examples, and describe them.
 14. What is the difference between `composer install` and `composer update`
 
+# Laravel
+1. What is Service Container and what does it do?
+
 # Design patterns
 
 1. List several design patterns **types**.
