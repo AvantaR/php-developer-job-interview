@@ -40,6 +40,7 @@ If you have any good questions which aren't present on the list, feel free to co
 7. Explain the **Interface segregation principle (ISP)**.
 8. Explain the **Dependency inversion principle (DIP)**.
 9. What **TDD** stands for? Name some benefits of using it.
+10. What are code smells, list some.
 
 # Workflow questions
 
